@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhiljat2001
 - 👀 I’m interested in Javascript, MERN Stack, React.Js, Next.Js and React Native.
-- 🌱 I’m currently learning App Development with React Native.
+- 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- email: nikhilpahal2001@gmail.com
 
